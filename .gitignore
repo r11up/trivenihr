@@ -1,0 +1,5 @@
+# macOS / editor noise — keep it out of the deployed site
+.DS_Store
+._*
+.Rhistory
+Thumbs.db
