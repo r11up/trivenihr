@@ -1,6 +1,8 @@
 # Triveni HR Solution Pvt. Ltd. — website
 
 
+Live at https://r11up.github.io/trivenihr/ or www.trivenihr.com.np or www.trivenihr.com
+
 ---
 
 ## 1. What's in here
